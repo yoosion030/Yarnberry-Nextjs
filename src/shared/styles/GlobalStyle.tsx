@@ -13,7 +13,6 @@ export function GlobalStyle() {
 
         a {
           text-decoration: none;
-          color: #ffffff;
         }
 
         body::-webkit-scrollbar {
@@ -23,7 +22,6 @@ export function GlobalStyle() {
         body::-webkit-scrollbar-thumb {
           background-color: #ffffff;
           border-radius: 10px;
-          border: 4px solid #0f0921;
           height: 56px;
           background-clip: content-box;
         }
